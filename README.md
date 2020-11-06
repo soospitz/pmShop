@@ -1,5 +1,5 @@
 # PM Shop
-Online Shop Web App made with React
+Online Shop Web App made with React <br/>
 Features filterable and sortable list of products, add and remove items from cart,
 responsive design, and dynamic routing using React-Router
 
