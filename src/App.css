@@ -1,5 +1,71 @@
+* {
+  text-align: center;
+  margin: 3px;
+  font-family: "Ubuntu", sans-serif;
+}
+nav {
+  padding: 10px;
+  display: inline-block;
+  width: 100px;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px 0;
+  word-spacing: 2px;
+}
+nav ul {
+  padding: 0px;
+}
+nav li {
+  display: inline;
+  margin: 20px;
+  padding: 10px;
+}
+nav a:link, a:visited {
+  background-color: white;
+  color: rgb(75, 75, 75);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-style: solid;
+  border-color: white;
+}
+nav a:hover, a:active {
+  color: #96d1ea;
+}
+.menu {
+  width: 100%;
+}
+h1 {
+  text-align: center;
+  margin: 10px;
+}
+.tag {
+  padding: 10px;
+}
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid lightgrey; 
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.column {
+  float: left;
+  margin-top: 0px;
+  width: 28%;
+  padding: 15px;
+  border: 1px solid lightslategray; 
+  border-radius: 5px;
+  margin: 10px;
+}
+.cards {
+  padding: 10px;
+}
 .App {
   text-align: center;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .App-logo {

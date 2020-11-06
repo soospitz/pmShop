@@ -1,0 +1,18 @@
+export const prices = {
+    top1: 20,
+    top2: 30,
+    top3: 15,
+    top4: 25,
+    top5: 25,
+    top6: 30,
+    top7: 30,
+    top8: 35,
+    top9: 35,
+    top10: 40,
+    top11: 30,
+    bottom: 45,
+    acc1: 15,
+    acc2: 15,
+    acc3: 20,
+    acc4: 20,
+  };
