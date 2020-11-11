@@ -13,8 +13,11 @@ function Nav(props) {
           <Link to="/about">
             <li>About</li>
           </Link>
+          <Link to="/liked">
+            <li><i class="fas fa-heart fa-sm" id="nav-heart"></i>Liked</li>
+          </Link>
           <Link to="/cart">
-            <li>Cart({props.getTotalQuantity()})</li>
+            <li><i class="fas fa-shopping-cart"></i>Cart ({props.getTotalQuantity()})</li>
           </Link>
         </div>
       </ul>

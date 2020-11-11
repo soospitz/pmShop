@@ -1,5 +1,6 @@
 {
-  "name": "shopping-cart-3",
+  "homepage" : "https://{soospitz}.github.io/{pmShop}",
+  "name": "pmShop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

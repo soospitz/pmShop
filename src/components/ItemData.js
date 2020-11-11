@@ -1,4 +1,4 @@
-const ItemData = [
+const itemData = [
     {
       id: 1,
       name: "top1",
@@ -143,4 +143,4 @@ const ItemData = [
     },
   ]
 
-  export default ItemData
+  export default itemData
